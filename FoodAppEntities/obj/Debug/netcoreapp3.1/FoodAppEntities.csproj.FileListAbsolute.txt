@@ -1,0 +1,8 @@
+E:\MinProject\FoodApp\FoodAppEntities\bin\Debug\netcoreapp3.1\FoodAppEntities.deps.json
+E:\MinProject\FoodApp\FoodAppEntities\bin\Debug\netcoreapp3.1\FoodAppEntities.dll
+E:\MinProject\FoodApp\FoodAppEntities\bin\Debug\netcoreapp3.1\FoodAppEntities.pdb
+E:\MinProject\FoodApp\FoodAppEntities\obj\Debug\netcoreapp3.1\FoodAppEntities.csprojAssemblyReference.cache
+E:\MinProject\FoodApp\FoodAppEntities\obj\Debug\netcoreapp3.1\FoodAppEntities.AssemblyInfoInputs.cache
+E:\MinProject\FoodApp\FoodAppEntities\obj\Debug\netcoreapp3.1\FoodAppEntities.AssemblyInfo.cs
+E:\MinProject\FoodApp\FoodAppEntities\obj\Debug\netcoreapp3.1\FoodAppEntities.dll
+E:\MinProject\FoodApp\FoodAppEntities\obj\Debug\netcoreapp3.1\FoodAppEntities.pdb

@@ -1,0 +1,11 @@
+E:\MinProject\FoodApp\FoodAppDAL\bin\Debug\netcoreapp3.1\FoodAppEntities.dll
+E:\MinProject\FoodApp\FoodAppDAL\obj\Debug\netcoreapp3.1\FoodAppDAL.csprojAssemblyReference.cache
+E:\MinProject\FoodApp\FoodAppDAL\obj\Debug\netcoreapp3.1\FoodAppDAL.AssemblyInfoInputs.cache
+E:\MinProject\FoodApp\FoodAppDAL\obj\Debug\netcoreapp3.1\FoodAppDAL.AssemblyInfo.cs
+E:\MinProject\FoodApp\FoodAppDAL\bin\Debug\netcoreapp3.1\FoodAppDAL.deps.json
+E:\MinProject\FoodApp\FoodAppDAL\bin\Debug\netcoreapp3.1\FoodAppDAL.dll
+E:\MinProject\FoodApp\FoodAppDAL\bin\Debug\netcoreapp3.1\FoodAppDAL.pdb
+E:\MinProject\FoodApp\FoodAppDAL\bin\Debug\netcoreapp3.1\FoodAppEntities.pdb
+E:\MinProject\FoodApp\FoodAppDAL\obj\Debug\netcoreapp3.1\FoodAppDAL.csproj.CopyComplete
+E:\MinProject\FoodApp\FoodAppDAL\obj\Debug\netcoreapp3.1\FoodAppDAL.dll
+E:\MinProject\FoodApp\FoodAppDAL\obj\Debug\netcoreapp3.1\FoodAppDAL.pdb
